@@ -1,0 +1,24 @@
+c:\users\home\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+c:\users\home\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+c:\users\home\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+c:\users\home\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+c:\users\home\documents\visual studio 2013\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\student\Desktop\1213\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\student\Desktop\1213\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\student\Desktop\1213\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\student\Desktop\1213\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\student\Desktop\1213\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\student\Desktop\1213\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\сергей\Desktop\1213\1213\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\сергей\Desktop\1213\1213\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\сергей\Desktop\1213\1213\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\сергей\Desktop\1213\1213\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\сергей\Desktop\1213\1213\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\сергей\Desktop\1213\1213\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\сергей\Desktop\TriangleGit\Switty\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\сергей\Desktop\TriangleGit\Switty\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\сергей\Desktop\TriangleGit\Switty\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\сергей\Desktop\TriangleGit\Switty\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\сергей\Desktop\TriangleGit\Switty\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\сергей\Desktop\TriangleGit\Switty\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
